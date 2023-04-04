@@ -1,2 +1,2 @@
-# OOP_C-_Projects
+# OOP Calculator C++
 OOP C++ Projects
